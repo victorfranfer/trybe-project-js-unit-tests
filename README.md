@@ -1,4 +1,4 @@
-# :construction: README customizado em construção ! :construction:
+JavaScript Unit Tests - Trybe Project !
 <!-- Olá, Tryber!
 Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
 
@@ -13,4 +13,4 @@ Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua cr
 -->
 In this project I wrote JavaScript unit tests for a plethora of different files (all in /src). My code is in each /tests files.
 
-April 2022.
+Done in April 2022 as part of the Trybe FullStack Web Development Course.
